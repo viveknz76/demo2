@@ -14,6 +14,7 @@
 		972181901D3B821800365B2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9721818E1D3B821800365B2D /* LaunchScreen.storyboard */; };
 		9721819B1D3B821800365B2D /* demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9721819A1D3B821800365B2D /* demo2Tests.swift */; };
 		972181A61D3B821800365B2D /* demo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 972181A51D3B821800365B2D /* demo2UITests.swift */; };
+		972181B41D3BB7FE00365B2D /* testFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 972181B31D3BB7FE00365B2D /* testFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		972181A11D3B821800365B2D /* demo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		972181A51D3B821800365B2D /* demo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo2UITests.swift; sourceTree = "<group>"; };
 		972181A71D3B821800365B2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		972181B31D3BB7FE00365B2D /* testFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				972181851D3B821800365B2D /* AppDelegate.swift */,
 				972181871D3B821800365B2D /* ViewController.swift */,
+				972181B31D3BB7FE00365B2D /* testFile.swift */,
 				972181891D3B821800365B2D /* Main.storyboard */,
 				9721818C1D3B821800365B2D /* Assets.xcassets */,
 				9721818E1D3B821800365B2D /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				972181881D3B821800365B2D /* ViewController.swift in Sources */,
 				972181861D3B821800365B2D /* AppDelegate.swift in Sources */,
+				972181B41D3BB7FE00365B2D /* testFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
